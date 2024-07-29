@@ -1,3 +1,3 @@
 # Data-Science-Notes
 
-This is my repository about my university subjects and own personal projects, the structure of this repository is given per semesters.
+Este es mi repositorio sobre mis asignaturas universitarias y mis propios proyectos personales, la estructura de este repositorio se da por semestres y la escritura de las notas fueron hechas totalmente con markdown.
