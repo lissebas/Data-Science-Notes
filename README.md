@@ -19,11 +19,33 @@ Welcome to the **Data Science Notes** repository! 🎓 This repository contains 
 
 ## 🗂️ Structure
 
-Mainly, this structure is organized by **Data Science** topics such as **Machine Learning**, **Data Mining**, **Data Visualization**, and other core areas. Each topic contains:
+Mainly, this structure is organized by **Data Science** priority topics. It starts with **Essential** knowledge about this field, covering core areas that you must understand. Then, you will find **Recommended** topics, which provide information to expand the knowledge previously acquired. Each topic *(represented as a subject-folder within each priority area)* contains:
 
 - **Notes**: Markdown files with detailed explanations, definitions, and formulas.
-- **Examples**: Interactive Jupyter notebooks demonstrating real-world applications and coding exercises.
+- **Examples**: Interactive Jupyter notebooks demonstrating applications and coding exercises.
 - **References**: Links and resources for further reading.
+
+Finally, the repository structure looks like this:
+
+
+```bash
+.
+├── Essential
+│   ├── 1_Data_Mining
+│   ├── 2_Machine_Learning
+│   ├── 3_Bayesian
+│   └── 4_Deep_Learning
+├── Recommended
+│   ├── Big_Data
+│   ├── Data_Base
+│   ├── Numerical_Methods
+│   └── Optimization
+├── LICENSE
+└── README.md
+```
+
+> [!NOTE]
+> The folders of each topic will be uploaded progressively, this is the outline of what I have in mind... although changes may arise.
 
 ## ✨ How to Use
 
