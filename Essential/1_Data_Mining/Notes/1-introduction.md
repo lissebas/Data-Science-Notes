@@ -12,24 +12,26 @@ Before explaining what data mining is, it is necessary to understand a few conce
 
 - **Wisdom:** Up to the insights level, computers are capable of processing and analyzing data because we can implement various techniques at each level of this pyramid. However, at the wisdom level, computers lack the capacity to participate. This level requires a full understanding of the data and its business importance. It is at this stage that the analyst plays a critical role but always handler with the expert in the field where is de business data.
 
+![levels of knowledge](https://i.pinimg.com/736x/cd/ef/7b/cdef7b8ce51a1d3a728ca5357e97a8d5.jpg)
+
 > [!note]
 > Working as a data scientist or analyst consists of understanding the data to achieve the **Knowledge**, **Insights**, and **Wisdom** levels, but you must **always** collaborate with the business data expert.
-
-![levels of knowledge](https://i.pinimg.com/736x/cd/ef/7b/cdef7b8ce51a1d3a728ca5357e97a8d5.jpg)
 
 Said this, I will explain to you about data mining is, I will explain it with the **five w questions** concept.
 
 ### What
 
-**Data Mining** is every proccess to extract information of data to generate knowledge and insights to according business interesting.
+**Data Mining** is every proccess to extract information of data to generate knowledge and insights to according business interesting. Additional helps to have a best undersantding about the information that dataset cointains and it help to you for have any idea about what model implement according the caracterist about de dataset. It proccess provide a clead mind about how your population sample is moving according diferents features that describe an situation about the interest of a business.
 
 ### Who
 
-Mainly, data analyst and data scientist are focused in this part but is posible that data scientist are most focused in modeling stage.
+This proccess is frecuently made by data analyst and scientist, both must have technical and bland skills like statistics and maths, programming, data structure, algorithm models, visualization, communication and critical thinking to provide the best communication of the insights to every public with simple lenguage.
 
 ### Why
 
-As previously seen, this is important to the business due to allow their take decisions based on the undertaning data and creating value in the different industries where data scientis is applied... And the business had been paying very good for this roles.
+Here there are two diferent perspective, the business frecuently there are most interented in generate value about their software and services with the data understanding about their clients, then use the data recolection and analize it provide to their made more information decision about what do to improve their goals.
+
+On another hand, this profession help to improve your skills to be a better person in multple areas becuase this is aplicable to so many business areas and there are not big people that suplain this demand by business, so they are available to paid so many money for this task.
 
 ### Where
 
@@ -53,15 +55,19 @@ This topic involve kind of a structure proccess that consist in differents thecn
 
 3. **Univariate analysis:**
 
-    3.1. **Normailty test:**
+    3.1. **Normailty test:** This step is more relevant to make generalization about a our population and determinate if ouw population have a centrality trend is their features.
 
-    3.2. **Features distribution:**
+    3.2. **Features distribution:** This is very importat \case when we can identify features without variability and this indicate that is not relevant the the modeling stage, thus indicate that there are factors which you can't make predictions about the population.
     
 4. **Bivariate analysis:**
 
-    4.1. **Independence test:**
+    4.1. **Independence test:** In here, do you want recognize if there are correlations between features *(predict vs predict and predict vs target)* to identy if is posible make any inference with the predict features that allow modeled any predict system effective and simple to predict the target feature 
 
 5. **Multivariate analysis:** Here is most commonly see implementations about more than two predict features with the target feature and observate how this predict features could be stronger for a modeling stage to predict the target feature.
 
 > [!important]
 > In univariate, bivariate and multivariate analysis, you must use several and easy understanding visualizations because of this allow to you a major representation of your features patterns.
+
+6. **Data transformation:** In some cases is neccessary implement methods to transform the actual features for create other representations that can explain better the target feature, this process should be used in **some** algoritms like neuronal networks \cause *(in this case)* helps to time converged.
+
+There are other areas that I could put here, but I thinks this are the most important to know like a basic introduction, with the time pass I probably insert more information here, but I thinks this is good like a **1-introduction charper**.
